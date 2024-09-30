@@ -16,7 +16,7 @@ public class Exercise08 {
 
         while (n1< n2){
 
-            System.out.println(n1+"<"+n2+". El proximo ciclo valdra:" + (n1+1));
+            System.out.println(n1+" < "+n2+". El proximo ciclo valdra: " + (n1+1));
             n1++;
         }
     }
